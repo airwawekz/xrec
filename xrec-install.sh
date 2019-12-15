@@ -78,12 +78,12 @@ git clone https://github.com/jobertabma/relative-url-extractor.git
 cd ~/xrec/
 echo "done"
 
-echo "installing jsfiles extractor"
+echo "downloading jsfiles extractor"
 wget https://raw.githubusercontent.com/shibli2700/Rekon/master/jsfiles.sh
 cd ~/xrec/
 echo "done"
 
-echo "installing header-response"
+echo "downloading header-response"
 wget https://raw.githubusercontent.com/shibli2700/Rekon/master/response.sh
 cd ~/xrec/
 echo "done"
